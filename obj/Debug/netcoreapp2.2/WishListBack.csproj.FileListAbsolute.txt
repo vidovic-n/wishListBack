@@ -1,0 +1,14 @@
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\bin\Debug\netcoreapp2.2\WishListBack.deps.json
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\bin\Debug\netcoreapp2.2\WishListBack.runtimeconfig.json
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\bin\Debug\netcoreapp2.2\WishListBack.runtimeconfig.dev.json
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\bin\Debug\netcoreapp2.2\WishListBack.dll
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.csproj.CoreCompileInputs.cache
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.RazorAssemblyInfo.cache
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.RazorAssemblyInfo.cs
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.AssemblyInfoInputs.cache
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.AssemblyInfo.cs
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.RazorTargetAssemblyInfo.cache
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\bin\Debug\netcoreapp2.2\WishListBack.pdb
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.dll
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.pdb
+C:\Users\nena.vidovic\source\repos\WishListBack\WishListBack\obj\Debug\netcoreapp2.2\WishListBack.csprojAssemblyReference.cache
